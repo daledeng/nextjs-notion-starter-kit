@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '613ee3afda7b406c9cac7ba2965502cc',
+  rootNotionPageId: 'b8e0b877e8f648f6a7d929a9640e98a7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  name: 'Seth Dang Blog World',
+  domain: 'seth.us.kg',
+  author: 'Seth Dang',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'chaodit',
-  github: 'chaodit',
-  linkedin: 'Chao Di Tang',
+  //twitter: 'chaodit',
+  //github: 'chaodit',
+  //linkedin: 'Chao Di Tang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
